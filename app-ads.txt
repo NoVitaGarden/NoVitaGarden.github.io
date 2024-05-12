@@ -4343,4 +4343,4 @@ eliteappgrade.com,514554,RESELLER
 lijit.com,502742,RESELLER,fafdf38b16bf6b2b
 contextweb.com,558638,RESELLER,89ff185a4c4e857c
 smartadserver.com,3232,RESELLER,060d053dcf45cbf3
-
+playdigo.com, 1993, RESELLER
