@@ -4344,3 +4344,9 @@ lijit.com,502742,RESELLER,fafdf38b16bf6b2b
 contextweb.com,558638,RESELLER,89ff185a4c4e857c
 smartadserver.com,3232,RESELLER,060d053dcf45cbf3
 playdigo.com, 1993, RESELLER
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+vidoomy.com, 7646534, DIRECT
+axonix.com, 59054, RESELLER, bc385f2b4a87b721
+programmaticx.ai, 6845438, RESELLER
+toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
+freewheel.tv, 1603124, RESELLER
